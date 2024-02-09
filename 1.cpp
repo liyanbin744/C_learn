@@ -2,6 +2,6 @@
 int main(int argc, char const *argv[])
 {
     using namespace std;
-    cout<<"shabi\n"<<endl;
+    cout<<"s\n"<<endl;
     return 0;
 }
