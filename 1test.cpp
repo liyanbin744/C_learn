@@ -2,7 +2,7 @@
 int main(int argc, char const *argv[])
 {
     using namespace std;
-    cout<<"s\n"<<endl;
+    cout<<"666\n"<<endl;
     return 0;
     
 }
